@@ -1,4 +1,4 @@
-# 015_DiscordResponsivo
+# projeto-site-discord-css
 Desafio da Formação CSS Developer da DIO: Construindo um Layout Responsivo Para o Site do Discord Com CSS.
 
 <h2>🛠 Tecnologias Utilizadas</h2>
