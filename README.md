@@ -11,7 +11,7 @@ Desafio da Formação CSS Developer da DIO: Construindo um Layout Responsivo Par
 </ul>
 <br>
 
-[Clique aqui](https://esdras-alves.github.io/015_DiscordResponsivo/) para conferir o resultado da landing page criada!
+[Clique aqui](https://projeto-site-discord-css.vercel.app/) para conferir o resultado da landing page criada!
 
 <br>
 
